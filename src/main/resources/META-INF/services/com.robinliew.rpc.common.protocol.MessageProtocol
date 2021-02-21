@@ -1,0 +1,3 @@
+com.robinliew.rpc.common.protocol.JavaSerializeMessageProtocol
+com.robinliew.rpc.common.protocol.ProtoBufMessageProtocol
+com.robinliew.rpc.common.protocol.KryoMessageProtocol
